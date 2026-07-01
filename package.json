@@ -1,0 +1,21 @@
+{
+    "name": "tw-mila",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@salla.sa/twilight-bundles": "^0.1.0",
+        "vite": "^5.0.0"
+    },
+    "author": "rasil1429n@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rcb6v6zvkf-cloud/tw-mila"
+    },
+    "private": true
+}
